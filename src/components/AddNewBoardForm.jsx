@@ -1,5 +1,5 @@
 import TextField from "./TextField";
-import iconCross from "../assets/icon-cross.svg";
+import iconCross from "../assets/icon_cross.svg";
 import Button from "./Button";
 import { useContext, useState } from "react";
 import { DataContext } from "../DataContext";

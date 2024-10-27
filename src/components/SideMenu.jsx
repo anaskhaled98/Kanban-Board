@@ -1,7 +1,7 @@
 import clsx from "clsx";
 import { useContext, useState } from "react";
 import DialogPrimitive from "./DialogPrimitive";
-import iconBoard from "../assets/icon-Board.svg";
+import iconBoard from "../assets/icon_Board.svg";
 import { DataContext } from "../DataContext";
 import AddNewBoardForm from "./AddNewBoardForm";
 

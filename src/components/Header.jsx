@@ -1,6 +1,6 @@
 import DropdownPrimitive from "./DropdownPrimitive";
 import DialogPrimitive from "./DialogPrimitive";
-import iconVerticalEllipsis from "../assets/icon-vertical-ellipsis.svg";
+import iconVerticalEllipsis from "../assets/icon_vertical_ellipsis.svg";
 import { useContext, useState } from "react";
 import { DataContext } from "../DataContext";
 import AddNewBoardForm from "./AddNewBoardForm";
