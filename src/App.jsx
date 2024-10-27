@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Header from "./components/Header";
 import SideMenu from "./components/SideMenu";
-import WorkSpcace from "./components/workSpace";
+import WorkSpcace from "./components/WorkSpace";
 import { DataContext } from "./DataContext";
 
 function App() {
