@@ -1,8 +1,24 @@
-# React + Vite
+# Kanban Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*Kanban Board* is a project management tool simple flexible and powerful.
 
-Currently, two official plugins are available:
+## Usage
+Start up a board in seconds, automate tedious tasks, and increase your productivity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Stylish and comfortable look.
+- Enhanced accessibility.
+- Ability to create, edit, and delete boards.
+- Create an unlimited number of columns on the board with specific names.
+- Automate and edit tasks in columns with a drag-and-drop feature.
+- Save your work.
+
+## Technologies
+1. JS. 
+2. React.
+3. Tailwind.
+4. Vite for bundling.
+   
+
+## Demo 
+https://kanban-board-hlcbvsaop-anaskhaled98s-projects.vercel.app/
