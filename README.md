@@ -9,7 +9,7 @@ Start up a board in seconds, automate tedious tasks, and increase your productiv
 - Stylish and comfortable look.
 - Enhanced accessibility.
 - Ability to create, edit, and delete boards.
-- Create an unlimited number of columns on the board with specific names.
+- Add an unlimited number of columns on the board with specific names.
 - Automate and edit tasks in columns with a drag-and-drop feature.
 - Save your work.
 
