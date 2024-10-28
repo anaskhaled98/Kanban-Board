@@ -11,7 +11,7 @@ Start up a board in seconds, automate tedious tasks, and increase your productiv
 - Ability to create, edit, and delete boards.
 - Add an unlimited number of columns on the board with specific names.
 - Automate and edit tasks in columns with a drag-and-drop feature.
-- Save your work.
+- Keep your work saved.
 
 ## Technologies
 1. JS. 
