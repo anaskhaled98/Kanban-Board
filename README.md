@@ -1,6 +1,6 @@
 # Kanban Board
 
-*Kanban Board* is a project management tool simple flexible and powerful.
+*Kanban Board* is a simple flexible and powerful project management tool.
 
 ## Usage
 Start up a board in seconds, automate tedious tasks, and increase your productivity.
